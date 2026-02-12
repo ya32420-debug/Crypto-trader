@@ -1,0 +1,13 @@
+# Requirements for Binance Trading Bot
+
+# Core libraries
+dateutil
+numpy
+pandas
+
+# Binance API library
+binance
+
+# Additional libraries
+requests
+matplotlib
